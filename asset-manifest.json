@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/magloyuan-crud/static/css/main.690439cf.css",
+    "main.js": "/magloyuan-crud/static/js/main.e4e414ad.js",
+    "static/js/787.925f756e.chunk.js": "/magloyuan-crud/static/js/787.925f756e.chunk.js",
+    "static/media/7RuV.gif": "/magloyuan-crud/static/media/7RuV.e932e00bf66072a9ae62.gif",
+    "index.html": "/magloyuan-crud/index.html",
+    "main.690439cf.css.map": "/magloyuan-crud/static/css/main.690439cf.css.map",
+    "main.e4e414ad.js.map": "/magloyuan-crud/static/js/main.e4e414ad.js.map",
+    "787.925f756e.chunk.js.map": "/magloyuan-crud/static/js/787.925f756e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.690439cf.css",
+    "static/js/main.e4e414ad.js"
+  ]
+}
