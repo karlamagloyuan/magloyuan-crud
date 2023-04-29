@@ -1,12 +1,12 @@
 .header {
     overflow: hidden;
-    background-color: #f1f1f1;
+    background-color: #d0b3d1;
 
 }
 
 .header p {
     float: left;
-    color: black;
+    color: rgb(116, 13, 93);
     text-align: center;
     padding: 10px;
     text-decoration: none;
@@ -29,13 +29,13 @@
 .header p.logo {
     font-size: 30px;
     font-weight: bold;
-    color: #4284f5;
+    color: #9b0f84;
 
 }
 
 
 .header p:hover {
-    background-color: rgb(67, 50, 228);
+    background-color: rgb(235, 208, 235);
     color: #b32f8b;
 
 }
